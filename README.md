@@ -32,7 +32,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rreisya&layout=compact&title_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rreisya&theme=dark&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&hide_border=true"/>
-</p>
