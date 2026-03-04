@@ -40,12 +40,5 @@ Currently strengthening backend fundamentals with PHP and Laravel.
 
 ---
 
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureisya&theme=react-dark&hide_border=true&color=007BFF&line=007BFF&point=007BFF"/>
-</p>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=120&section=footer"/>
