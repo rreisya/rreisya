@@ -1,65 +1,69 @@
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Muhammad%20Reisya%20Adandi&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+<!-- ======================= HEADER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,40:0f1629,100:1a1f3c&height=220&section=header&text=Muhammad%20Reisya%20Adandi&fontSize=40&fontColor=00F5FF&animation=fadeIn&desc=Backend%20System%20Builder%20%7C%20Dark%20Mode%20Enjoyer&descSize=18&descAlignY=65"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Laravel+Enthusiast;.NET+Application+Builder;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Laravel+Architect;.NET+Application+Builder;Leveling+Up+Everyday" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👾 PLAYER PROFILE
 
-- 🎓 Software Engineering Student  
-- 💻 Focused on Web & Desktop Development  
-- ⚙️ Main Stack: Laravel & .NET  
-- 🚀 Passionate about building structured and scalable systems  
+```diff
++ Name      : Muhammad Reisya Adandi
++ Role      : Software Developer
++ Class     : Backend Engineer
++ Main Gear : Laravel & .NET
++ Mode      : Dark Theme Activated
+```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 SKILL LOADOUT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,cs,dotnet,mysql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=laravel,cs,dotnet,mysql,git,github,vscode,visualstudio&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 SYSTEM STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&bg_color=0a0f1c&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&hide_border=true&title_color=00F5FF&text_color=ffffff&bg_color=0a0f1c" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 DAMAGE OUTPUT GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FFFFFF&bg_color=0a0f1c" />
 </p>
 
 ---
 
-## 🚧 Currently Building
+## 🎯 CURRENT QUEST
 
-- 🛒 POS Application (Laravel)
-- 📚 Library Management System
-- 🖥 Desktop App with .NET
+- 🔥 Master Laravel Architecture  
+- ⚔️ Build Scalable .NET Systems  
+- 🧩 Learn Clean Code & Design Patterns  
+- 🚀 Reach Pro Developer Rank  
 
 ---
 
-## 🎯 2026 Goals
+## 🏆 ACHIEVEMENTS
 
-- 🔥 Master Laravel Architecture
-- 🧠 Improve Problem Solving
-- ⚙️ Learn Clean Code & Design Patterns
-- 🚀 Become Fullstack Engineer
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_LO&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Discipline builds skill. Skill builds freedom."</i>
+  <i style="color:#00F5FF;">"Stay low. Keep coding. Level up in silence."</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<!-- ======================= FOOTER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3c,60:0f1629,100:0a0f1c&height=120&section=footer"/>
