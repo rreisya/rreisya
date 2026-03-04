@@ -3,33 +3,40 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Focused+on+Frontend;Building+with+Laravel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Focused+on+Frontend;Building+with+Laravel;UI%2FUX+Enthusiast" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME_LU&color=0A2472&style=flat-square&label=Profile+Views"/>
+  <img src="https://img.shields.io/github/followers/USERNAME_LU?label=Followers&style=social"/>
+  <img src="https://img.shields.io/github/stars/USERNAME_LU?label=Stars&style=social"/>
 </p>
 
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
 
-- 🎓 **Software Engineering Student** (RPL)
-- 💻 **Frontend Developer** with Laravel backend skills
-- 🎨 Passionate about **UI/UX Design**
-- 🌱 Currently learning **Advanced Laravel & Modern Frontend Patterns**
-- ⚡ Fun fact: I love turning complex problems into simple, beautiful interfaces
-
----
-
-## 🚀 Current Focus
-
-```javascript
-const reiCurrentFocus = {
-  code: ["JavaScript", "PHP", "HTML", "CSS", "Tailwind"],
-  framework: ["Laravel", "React (soon)"],
-  architecture: ["Clean Code", "MVC Pattern", "RESTful APIs"],
-  design: ["Figma", "Responsive Design", "Dark Mode First"],
-  currentProject: "Kost Management System with Laravel",
-  goal2025: "Master Full Stack Development"
-};
+```yaml
+name: Rei
+role: Frontend Developer & Laravel Enthusiast
+location: Indonesia
+education:
+  - Software Engineering Student (RPL)
+current_focus:
+  - Frontend Development with Tailwind CSS
+  - Backend Development with Laravel
+  - UI/UX Design Principles
+skills:
+  frontend: ["HTML5", "CSS3", "JavaScript", "Tailwind", "Bootstrap"]
+  backend: ["PHP", "Laravel", "MySQL"]
+  tools: ["Git", "GitHub", "Figma", "VSCode", "Postman"]
+  design: ["Figma", "Canva", "UI/UX Basics"]
+learning:
+  - React.js
+  - Advanced Laravel Concepts
+  - RESTful API Design
+goals_2025:
+  - Master Full Stack Development
+  - Contribute to Open Source
+  - Build 10+ Real Projects
+fun_fact: "I believe good code should look as good as the UI it creates!"
