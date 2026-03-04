@@ -19,9 +19,24 @@
 
 ## Tech Stack
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rreisya&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-001D3D?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-001D3D?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-001D3D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Tailwind-001D3D?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/PHP-001D3D?style=for-the-badge&logo=php&logoColor=777BB4"/>
+  <img src="https://img.shields.io/badge/Laravel-001D3D?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
+  <img src="https://img.shields.io/badge/MySQL-001D3D?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Git-001D3D?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rreisya&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rreisya&layout=compact&title_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rreisya&layout=compact&title_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="170"/>
 </p>
