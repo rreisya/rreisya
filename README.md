@@ -19,13 +19,6 @@
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,mysql,git,github,vscode" />
-</p>
-
----
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rreisya&show_icons=true&title_color=3B82F6&icon_color=3B82F6&text_color=E0F2FF&bg_color=0D1117&hide_border=true" height="165"/>
 </p>
 
