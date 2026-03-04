@@ -38,7 +38,7 @@ Currently strengthening backend fundamentals with PHP and Laravel.
   <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="48"/>
 </p>
 
----
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=120&section=footer"/>
