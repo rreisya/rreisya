@@ -1,8 +1,7 @@
-<!-- ===== Futuristic Animated Header ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:145A32&height=200&section=header&text=AKUREIFAN&fontSize=40&fontColor=00FF9C&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=200&section=header&text=AKUREISYA&fontSize=40&fontColor=007BFF&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Interface+Enthusiast;Wireframe+%7C+Prototype+%7C+Design+System;React+%7C+Laravel+%7C+Tailwind" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=007BFF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Interface+Enthusiast;Wireframe+%7C+Prototype+%7C+Design+System;React+%7C+Laravel+%7C+Tailwind" />
 </p>
 
 ---
@@ -44,9 +43,9 @@ Currently strengthening backend fundamentals with PHP and Laravel.
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureifan&theme=react-dark&hide_border=true&color=00FF9C&line=00FF9C&point=00FF9C"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureisya&theme=react-dark&hide_border=true&color=007BFF&line=007BFF&point=007BFF"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:145A32&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:003366&height=120&section=footer"/>
