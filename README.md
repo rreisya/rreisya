@@ -17,6 +17,15 @@
 
 ---
 
+## Current Focus
+
+- Improving clean UI structure  
+- Writing better Laravel architecture  
+- Practicing real-world project builds  
+- Learning modern frontend patterns  
+
+---
+
 ## Tech Stack
 
 <p align="center">
@@ -29,3 +38,15 @@
   <img src="https://img.shields.io/badge/Git-001D3D?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </p>
+
+---
+
+## Project Philosophy
+
+```javascript
+const rei = {
+  codeStyle: "clean and minimal",
+  focus: "frontend development",
+  backend: "laravel",
+  goal: "professional fullstack developer"
+};
