@@ -13,7 +13,6 @@
   <li>Focused on Frontend Development</li>
   <li>Learning Laravel for Backend</li>
   <li>Interested in UI/UX Design</li>
-  <li>Goal: Become a Professional Fullstack Developer</li>
 </ul>
 
 <hr>
@@ -26,13 +25,6 @@
 
 <hr>
 
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rreisya&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=000000&bg_color=FFFFFF" height="170"/>
-</p>
-
-<hr>
 
 <p align="center">
   Keep Building. Keep Growing.
