@@ -1,69 +1,52 @@
-<!-- ======================= HEADER ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,40:0f1629,100:1a1f3c&height=220&section=header&text=Muhammad%20Reisya%20Adandi&fontSize=40&fontColor=00F5FF&animation=fadeIn&desc=Backend%20System%20Builder%20%7C%20Dark%20Mode%20Enjoyer&descSize=18&descAlignY=65"/>
+<!-- ===== Futuristic Animated Header ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:145A32&height=200&section=header&text=AKUREIFAN&fontSize=40&fontColor=00FF9C&animation=twinkling"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Laravel+Architect;.NET+Application+Builder;Leveling+Up+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00FF9C&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Interface+Enthusiast;Wireframe+%7C+Prototype+%7C+Design+System;React+%7C+Laravel+%7C+Tailwind" />
 </p>
 
 ---
 
-## 👾 PLAYER PROFILE
+## About Me
 
-```diff
-+ Name      : Muhammad Reisya Adandi
-+ Role      : Software Developer
-+ Class     : Backend Engineer
-+ Main Gear : Laravel & .NET
-+ Mode      : Dark Theme Activated
-```
+UI/UX-focused designer who enjoys building clean, modern, and user-centered interfaces.
+
+Experienced in translating design concepts into responsive layouts using HTML, Tailwind, and React.  
+Currently strengthening backend fundamentals with PHP and Laravel.
 
 ---
 
-## 🛠 SKILL LOADOUT
+## Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,cs,dotnet,mysql,git,github,vscode,visualstudio&theme=dark" />
+### Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://cdn.simpleicons.org/laragon/0E83CD" height="48"/>
 </p>
 
 ---
 
-## 📊 SYSTEM STATS
+## Activity Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&hide_border=true&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&bg_color=0a0f1c&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LO&layout=compact&hide_border=true&title_color=00F5FF&text_color=ffffff&bg_color=0a0f1c" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akureifan&theme=react-dark&hide_border=true&color=00FF9C&line=00FF9C&point=00FF9C"/>
 </p>
 
 ---
 
-## 📈 DAMAGE OUTPUT GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_LO&theme=react-dark&hide_border=true&area=true&color=00F5FF&line=00F5FF&point=FFFFFF&bg_color=0a0f1c" />
-</p>
-
----
-
-## 🎯 CURRENT QUEST
-
-- 🔥 Master Laravel Architecture  
-- ⚔️ Build Scalable .NET Systems  
-- 🧩 Learn Clean Code & Design Patterns  
-- 🚀 Reach Pro Developer Rank  
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_LO&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-<p align="center">
-  <i style="color:#00F5FF;">"Stay low. Keep coding. Level up in silence."</i>
-</p>
-
-<!-- ======================= FOOTER ======================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f3c,60:0f1629,100:0a0f1c&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,100:145A32&height=120&section=footer"/>
