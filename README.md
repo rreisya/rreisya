@@ -6,35 +6,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Focused+on+Frontend;Building+with+Laravel" />
 </p>
 
----
-
-## About Me
-
-- Software Engineering Student (RPL)  
-- Focused on Frontend Development  
-- Learning Laravel Backend  
-- Interested in UI/UX Design  
-
----
-
-## Current Focus
-
-- Improving clean UI structure  
-- Writing better Laravel architecture  
-- Practicing real-world project builds  
-- Learning modern frontend patterns  
-
----
-
-## Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-001D3D?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/JavaScript-001D3D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Tailwind-001D3D?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
-  <img src="https://img.shields.io/badge/PHP-001D3D?style=for-the-badge&logo=php&logoColor=777BB4"/>
-  <img src="https://img.shields.io/badge/Laravel-001D3D?style=for-the-badge&logo=laravel&logoColor=FF2D20"/>
-  <img src="https://img.shields.io/badge/MySQL-001D3D?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Git-001D3D?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-001D3D?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_LU&color=0A2472&style=flat-square&label=Profile+Views"/>
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> About Me
+
+- 🎓 **Software Engineering Student** (RPL)
+- 💻 **Frontend Developer** with Laravel backend skills
+- 🎨 Passionate about **UI/UX Design**
+- 🌱 Currently learning **Advanced Laravel & Modern Frontend Patterns**
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful interfaces
+
+---
+
+## 🚀 Current Focus
+
+```javascript
+const reiCurrentFocus = {
+  code: ["JavaScript", "PHP", "HTML", "CSS", "Tailwind"],
+  framework: ["Laravel", "React (soon)"],
+  architecture: ["Clean Code", "MVC Pattern", "RESTful APIs"],
+  design: ["Figma", "Responsive Design", "Dark Mode First"],
+  currentProject: "Kost Management System with Laravel",
+  goal2025: "Master Full Stack Development"
+};
